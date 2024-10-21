@@ -6,11 +6,6 @@
     <title>Welcome</title>
 </head>
 <body>
-    <header>
-        Qui inserirò la navbar
-    </header>
-    <main>
-        <h1>Welcome to my first page in Laravel</h1>
-    </main>
+        <h1>Hello World</h1>
 </body>
 </html>
