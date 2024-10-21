@@ -17,10 +17,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000/products">Products</a>
-                <a class="nav-link" href="#">Features</a>
-                <a class="nav-link" href="#">Pricing</a>
-                <a class="nav-link disabled">About Us</a>
+                <a class="nav-link active" aria-current="page" href="./products">Products</a>
+                <a class="nav-link" href="./features">Features</a>
+                <a class="nav-link" href="./pricing">Pricing</a>
+                <a class="nav-link" href="./about-us">About Us</a>
             </div>
             </div>
         </div>
